@@ -1,0 +1,32 @@
+[
+  {
+    "file": "Loco_Reaper_v1.ex4",
+    "bytes": 261456,
+    "sha256": "fdc8fee3bdf94f993b4b78dab1501bdd95d01e26951f12f2f4afe1d41f85b962"
+  },
+  {
+    "file": "Loco_Reaper_v1.log",
+    "bytes": 26226,
+    "sha256": "578c30e1e75fba5c141677e5d02c9ba93008a042ea80e6647e91f2a7356fcc87"
+  },
+  {
+    "file": "Loco_Reaper_v1.mq4",
+    "bytes": 801328,
+    "sha256": "32d8e3a57ce0ead9cadfac014d3eb90fbf3ed565f9b151fdbeff9644d7c5000e"
+  },
+  {
+    "file": "TS_Gold_Reaper_v4.1.ex4",
+    "bytes": 261056,
+    "sha256": "314b78a2f850c6fd6b60b71fe548e1212159a97a69a415ff26bd0234009423ac"
+  },
+  {
+    "file": "TS_Gold_Reaper_v4.1.log",
+    "bytes": 27222,
+    "sha256": "934eac060ef226b449d791c57a010a3e83d746f36c5910a94ed8d5f8f790de6f"
+  },
+  {
+    "file": "TS_Gold_Reaper_v4.1.mq4",
+    "bytes": 611902,
+    "sha256": "33ba69c2f12e1d320a7e583d330443c6b56b5ae25f4ee33a450db57cb5e1fc54"
+  }
+]

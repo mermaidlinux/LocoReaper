@@ -1,0 +1,104 @@
+
+
+build/comparison-20261002/Loco_Reaper_v1.mq4 : information: compiling 'Loco_Reaper_v1.mq4'
+build/comparison-20261002/Loco_Reaper_v1.mq4(922,18) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(931,25) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(994,24) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(1069,22) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(1155,18) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(1159,7) : warning 60: possible use of uninitialized variable 'LR_Temp001_Bool_bo'
+build/comparison-20261002/Loco_Reaper_v1.mq4(1868,18) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(2149,8) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2157,10) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2165,8) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2173,10) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2183,10) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2194,10) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2204,10) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2215,10) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2251,12) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2259,14) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2267,12) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2275,14) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2285,14) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2296,14) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2306,14) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2317,14) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2402,14) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2405,12) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2434,14) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2442,16) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2450,14) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2458,16) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2468,16) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2479,16) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2489,16) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2500,16) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2585,16) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2588,14) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2691,85) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(2691,10) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2695,85) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(2695,10) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2698,8) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2750,20) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(2750,8) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2783,20) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(2783,8) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(2866,27) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(2940,59) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(2962,67) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(2984,57) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3006,63) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3075,8) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3089,8) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3121,6) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3134,4) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3249,28) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3253,28) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3257,28) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3261,28) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3265,28) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3611,6) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3632,6) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3640,8) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3661,4) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3668,4) : warning 83: return value of 'OrderDelete' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(3826,26) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3863,38) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(3885,65) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4052,26) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4089,38) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4111,65) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4222,22) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4222,10) : warning 83: return value of 'OrderModify' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4227,22) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4227,10) : warning 83: return value of 'OrderModify' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4235,22) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4235,10) : warning 83: return value of 'OrderModify' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4240,22) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4240,10) : warning 83: return value of 'OrderModify' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4244,21) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4244,10) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4249,21) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4249,10) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4254,21) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4254,10) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4259,21) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4259,10) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4264,21) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4264,10) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4290,63) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4323,22) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4323,10) : warning 83: return value of 'OrderModify' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4328,85) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4328,10) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4378,95) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4378,20) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4381,93) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4381,18) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4412,20) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4420,95) : warning 43: possible loss of data due to type conversion
+build/comparison-20261002/Loco_Reaper_v1.mq4(4420,20) : warning 83: return value of 'OrderClose' should be checked
+build/comparison-20261002/Loco_Reaper_v1.mq4(4423,93) : warning 43: possible loss of data due to type conversion
+Result: 0 errors, 264 warnings, 200 msec elapsed

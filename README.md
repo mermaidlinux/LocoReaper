@@ -8,6 +8,7 @@ Source dan paket audit yang dipertahankan tanpa perubahan logika trading.
 - [Laporan lingkungan, perbandingan, dan compile](docs/environment-and-compile.md).
 - [Audit warning dan prioritas temuan](docs/warning-review.md), dengan [inventaris 100 rincian warning yang tersedia](docs/warning-inventory.md).
 - [Rencana pembandingan backtest, belum dijalankan](docs/backtest-plan.md).
+- [Compile ulang dan hambatan akses tester pada percobaan pembandingan](docs/comparison-20261002/status.md).
 - `docs/gold-compile.txt` dan `docs/loco-compile.txt`: hasil compiler dalam UTF-8, path workspace disingkat.
 
 Hasil compile 2 Oktober 2026: kedua source menghasilkan EX4 dengan **0 error, 264 warning** menggunakan executable MetaEditor yang sama. Rincian log hanya memuat 100 warning per source. Belum ada perbaikan warning, pemasangan EA, atau backtest.

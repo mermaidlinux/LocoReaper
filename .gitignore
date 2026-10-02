@@ -1,5 +1,6 @@
 # Generated compiler output and local build workspace
 /build/
+/docs/gold-smoke-20260921/journal-user-provided.txt
 *.ex4
 *.ex5
 *.log

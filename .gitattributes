@@ -1,0 +1,5 @@
+# Preserve original source/audit bytes, including UTF-16 and CRLF.
+*.mq4 -text
+Loco_Reaper_v1_Audit/** -text
+*.md text eol=lf
+*.ps1 text eol=lf

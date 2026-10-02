@@ -1,0 +1,34 @@
+# Generated compiler output and local build workspace
+/build/
+*.ex4
+*.ex5
+*.log
+# Terminal/account settings and market history
+*.ini
+*.cfg
+*.dat
+*.srv
+*.set
+*.hst
+*.fxt
+*.hcc
+*.hcs
+*.hc
+*.tkc
+*.ticks
+*.db
+*.sqlite*
+accounts/
+config/
+profiles/
+history/
+tester/
+logs/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+credentials*
+secrets*
+__pycache__/

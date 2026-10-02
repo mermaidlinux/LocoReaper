@@ -1,0 +1,15 @@
+{
+  "original_sha256": "4dd736b5d36414fb53c9aafa04aeffcc6972e692f43a9affea6173eefa704f60",
+  "output_sha256": "32d8e3a57ce0ead9cadfac014d3eb90fbf3ed565f9b151fdbeff9644d7c5000e",
+  "source_lines": 9378,
+  "renamed_identifiers": 719,
+  "renamed_occurrences": 9072,
+  "renamed_functions": 42,
+  "neutral_names": 699,
+  "inverse_byte_comparison": "PASS",
+  "token_comparison": "PASS",
+  "name_collision_check": "PASS",
+  "all_code_identifiers_ascii": "PASS",
+  "compiler": "NOT RUN - MetaEditor/MT4 unavailable",
+  "backtest": "NOT RUN - MT4 and matched test data unavailable"
+}

@@ -1,0 +1,4316 @@
+[
+  {
+    "old": "SuperProfits77",
+    "new": "LR_IsAmericanDST",
+    "occurrences": 3,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "lizong_10",
+    "new": "LR_EngineRoutine10",
+    "occurrences": 3,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_11",
+    "new": "LR_FindEntrySwingHigh",
+    "occurrences": 3,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "lizong_12",
+    "new": "LR_EngineRoutine12",
+    "occurrences": 3,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_13",
+    "new": "LR_FindAuxiliarySwingHigh",
+    "occurrences": 2,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "lizong_14",
+    "new": "LR_EngineRoutine14",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_15",
+    "new": "LR_EngineRoutine15",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_16",
+    "new": "LR_EngineRoutine16",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_17",
+    "new": "LR_EngineRoutine17",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_18",
+    "new": "LR_EngineRoutine18",
+    "occurrences": 3,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_19",
+    "new": "LR_EngineRoutine19",
+    "occurrences": 3,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_20",
+    "new": "LR_EngineRoutine20",
+    "occurrences": 4,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_21",
+    "new": "LR_EngineRoutine21",
+    "occurrences": 19,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_22",
+    "new": "LR_EngineRoutine22",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_24",
+    "new": "LR_EngineRoutine24",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_25",
+    "new": "LR_EngineRoutine25",
+    "occurrences": 9,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_26",
+    "new": "LR_EngineRoutine26",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_27",
+    "new": "LR_EngineRoutine27",
+    "occurrences": 3,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_28",
+    "new": "LR_EngineRoutine28",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_29",
+    "new": "LR_EngineRoutine29",
+    "occurrences": 4,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_30",
+    "new": "LR_EngineRoutine30",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_31",
+    "new": "LR_EngineRoutine31",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_32",
+    "new": "LR_EngineRoutine32",
+    "occurrences": 3,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_33",
+    "new": "LR_EngineRoutine33",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_34",
+    "new": "LR_EngineRoutine34",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_35",
+    "new": "LR_EngineRoutine35",
+    "occurrences": 19,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_36",
+    "new": "LR_EngineRoutine36",
+    "occurrences": 4,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_37",
+    "new": "LR_LoadStrategy01",
+    "occurrences": 3,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_38",
+    "new": "LR_LoadStrategy04",
+    "occurrences": 2,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_39",
+    "new": "LR_LoadStrategy02",
+    "occurrences": 2,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_40",
+    "new": "LR_LoadStrategy03",
+    "occurrences": 2,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_41",
+    "new": "LR_LoadStrategy06",
+    "occurrences": 2,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_42",
+    "new": "LR_LoadStrategy05",
+    "occurrences": 2,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_43",
+    "new": "LR_LoadStrategy09",
+    "occurrences": 2,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_44",
+    "new": "LR_LoadStrategy07",
+    "occurrences": 2,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_45",
+    "new": "LR_LoadStrategy08",
+    "occurrences": 2,
+    "basis": "strategy number verified against source order-comment suffix"
+  },
+  {
+    "old": "lizong_46",
+    "new": "LR_EngineRoutine46",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_47",
+    "new": "LR_EngineRoutine47",
+    "occurrences": 9,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_6",
+    "new": "LR_EngineRoutine06",
+    "occurrences": 12,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_7",
+    "new": "LR_EngineRoutine07",
+    "occurrences": 11,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_8",
+    "new": "LR_EngineRoutine08",
+    "occurrences": 4,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "lizong_9",
+    "new": "LR_EngineRoutine09",
+    "occurrences": 2,
+    "basis": "neutral function name; original routine number retained"
+  },
+  {
+    "old": "临_bo_1",
+    "new": "LR_Temp001_Bool_bo",
+    "occurrences": 22,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_106",
+    "new": "LR_Temp106_Bool_bo",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_109",
+    "new": "LR_Temp109_Bool_bo",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_12",
+    "new": "LR_Temp012_Bool_bo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_13",
+    "new": "LR_Temp013_Bool_bo",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_15",
+    "new": "LR_Temp015_Bool_bo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_2",
+    "new": "LR_Temp002_Bool_bo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_28",
+    "new": "LR_Temp028_Bool_bo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_3",
+    "new": "LR_Temp003_Bool_bo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_39",
+    "new": "LR_Temp039_Bool_bo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_4",
+    "new": "LR_Temp004_Bool_bo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_5",
+    "new": "LR_Temp005_Bool_bo",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_6",
+    "new": "LR_Temp006_Bool_bo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_bo_7",
+    "new": "LR_Temp007_Bool_bo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_1",
+    "new": "LR_Temp001_Double_do",
+    "occurrences": 47,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_10",
+    "new": "LR_Temp010_Double_do",
+    "occurrences": 49,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_11",
+    "new": "LR_Temp011_Double_do",
+    "occurrences": 54,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_12",
+    "new": "LR_Temp012_Double_do",
+    "occurrences": 51,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_13",
+    "new": "LR_Temp013_Double_do",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_14",
+    "new": "LR_Temp014_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_15",
+    "new": "LR_Temp015_Double_do",
+    "occurrences": 15,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_17",
+    "new": "LR_Temp017_Double_do",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_18",
+    "new": "LR_Temp018_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_2",
+    "new": "LR_Temp002_Double_do",
+    "occurrences": 70,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_20",
+    "new": "LR_Temp020_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_21",
+    "new": "LR_Temp021_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_23",
+    "new": "LR_Temp023_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_24",
+    "new": "LR_Temp024_Double_do",
+    "occurrences": 13,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_25",
+    "new": "LR_Temp025_Double_do",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_26",
+    "new": "LR_Temp026_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_27",
+    "new": "LR_Temp027_Double_do",
+    "occurrences": 19,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_3",
+    "new": "LR_Temp003_Double_do",
+    "occurrences": 75,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_31",
+    "new": "LR_Temp031_Double_do",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_35",
+    "new": "LR_Temp035_Double_do",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_36",
+    "new": "LR_Temp036_Double_do",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_38",
+    "new": "LR_Temp038_Double_do",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_4",
+    "new": "LR_Temp004_Double_do",
+    "occurrences": 65,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_42",
+    "new": "LR_Temp042_Double_do",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_5",
+    "new": "LR_Temp005_Double_do",
+    "occurrences": 73,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_6",
+    "new": "LR_Temp006_Double_do",
+    "occurrences": 48,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_7",
+    "new": "LR_Temp007_Double_do",
+    "occurrences": 39,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_8",
+    "new": "LR_Temp008_Double_do",
+    "occurrences": 50,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_9",
+    "new": "LR_Temp009_Double_do",
+    "occurrences": 55,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_90",
+    "new": "LR_Temp090_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_do_97",
+    "new": "LR_Temp097_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_1",
+    "new": "LR_Temp001_Int_in",
+    "occurrences": 18,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_10",
+    "new": "LR_Temp010_Int_in",
+    "occurrences": 60,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_101",
+    "new": "LR_Temp101_Int_in",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_102",
+    "new": "LR_Temp102_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_103",
+    "new": "LR_Temp103_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_104",
+    "new": "LR_Temp104_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_105",
+    "new": "LR_Temp105_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_107",
+    "new": "LR_Temp107_Int_in",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_108",
+    "new": "LR_Temp108_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_11",
+    "new": "LR_Temp011_Int_in",
+    "occurrences": 46,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_110",
+    "new": "LR_Temp110_Int_in",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_112",
+    "new": "LR_Temp112_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_115",
+    "new": "LR_Temp115_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_116",
+    "new": "LR_Temp116_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_117",
+    "new": "LR_Temp117_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_118",
+    "new": "LR_Temp118_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_12",
+    "new": "LR_Temp012_Int_in",
+    "occurrences": 45,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_13",
+    "new": "LR_Temp013_Int_in",
+    "occurrences": 54,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_14",
+    "new": "LR_Temp014_Int_in",
+    "occurrences": 39,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_15",
+    "new": "LR_Temp015_Int_in",
+    "occurrences": 28,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_16",
+    "new": "LR_Temp016_Int_in",
+    "occurrences": 52,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_17",
+    "new": "LR_Temp017_Int_in",
+    "occurrences": 18,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_18",
+    "new": "LR_Temp018_Int_in",
+    "occurrences": 21,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_19",
+    "new": "LR_Temp019_Int_in",
+    "occurrences": 51,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_2",
+    "new": "LR_Temp002_Int_in",
+    "occurrences": 42,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_20",
+    "new": "LR_Temp020_Int_in",
+    "occurrences": 18,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_21",
+    "new": "LR_Temp021_Int_in",
+    "occurrences": 18,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_22",
+    "new": "LR_Temp022_Int_in",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_23",
+    "new": "LR_Temp023_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_24",
+    "new": "LR_Temp024_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_25",
+    "new": "LR_Temp025_Int_in",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_26",
+    "new": "LR_Temp026_Int_in",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_27",
+    "new": "LR_Temp027_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_28",
+    "new": "LR_Temp028_Int_in",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_29",
+    "new": "LR_Temp029_Int_in",
+    "occurrences": 19,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_3",
+    "new": "LR_Temp003_Int_in",
+    "occurrences": 68,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_30",
+    "new": "LR_Temp030_Int_in",
+    "occurrences": 21,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_31",
+    "new": "LR_Temp031_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_32",
+    "new": "LR_Temp032_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_33",
+    "new": "LR_Temp033_Int_in",
+    "occurrences": 19,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_34",
+    "new": "LR_Temp034_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_35",
+    "new": "LR_Temp035_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_36",
+    "new": "LR_Temp036_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_37",
+    "new": "LR_Temp037_Int_in",
+    "occurrences": 13,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_38",
+    "new": "LR_Temp038_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_39",
+    "new": "LR_Temp039_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_4",
+    "new": "LR_Temp004_Int_in",
+    "occurrences": 74,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_40",
+    "new": "LR_Temp040_Int_in",
+    "occurrences": 19,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_41",
+    "new": "LR_Temp041_Int_in",
+    "occurrences": 21,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_42",
+    "new": "LR_Temp042_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_43",
+    "new": "LR_Temp043_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_44",
+    "new": "LR_Temp044_Int_in",
+    "occurrences": 17,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_45",
+    "new": "LR_Temp045_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_46",
+    "new": "LR_Temp046_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_47",
+    "new": "LR_Temp047_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_48",
+    "new": "LR_Temp048_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_49",
+    "new": "LR_Temp049_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_5",
+    "new": "LR_Temp005_Int_in",
+    "occurrences": 29,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_50",
+    "new": "LR_Temp050_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_51",
+    "new": "LR_Temp051_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_52",
+    "new": "LR_Temp052_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_53",
+    "new": "LR_Temp053_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_54",
+    "new": "LR_Temp054_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_55",
+    "new": "LR_Temp055_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_56",
+    "new": "LR_Temp056_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_57",
+    "new": "LR_Temp057_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_58",
+    "new": "LR_Temp058_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_59",
+    "new": "LR_Temp059_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_6",
+    "new": "LR_Temp006_Int_in",
+    "occurrences": 74,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_60",
+    "new": "LR_Temp060_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_61",
+    "new": "LR_Temp061_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_62",
+    "new": "LR_Temp062_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_63",
+    "new": "LR_Temp063_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_64",
+    "new": "LR_Temp064_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_65",
+    "new": "LR_Temp065_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_66",
+    "new": "LR_Temp066_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_67",
+    "new": "LR_Temp067_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_68",
+    "new": "LR_Temp068_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_69",
+    "new": "LR_Temp069_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_7",
+    "new": "LR_Temp007_Int_in",
+    "occurrences": 71,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_70",
+    "new": "LR_Temp070_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_71",
+    "new": "LR_Temp071_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_72",
+    "new": "LR_Temp072_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_73",
+    "new": "LR_Temp073_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_74",
+    "new": "LR_Temp074_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_75",
+    "new": "LR_Temp075_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_76",
+    "new": "LR_Temp076_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_77",
+    "new": "LR_Temp077_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_78",
+    "new": "LR_Temp078_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_79",
+    "new": "LR_Temp079_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_8",
+    "new": "LR_Temp008_Int_in",
+    "occurrences": 41,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_80",
+    "new": "LR_Temp080_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_81",
+    "new": "LR_Temp081_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_82",
+    "new": "LR_Temp082_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_83",
+    "new": "LR_Temp083_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_84",
+    "new": "LR_Temp084_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_85",
+    "new": "LR_Temp085_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_86",
+    "new": "LR_Temp086_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_87",
+    "new": "LR_Temp087_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_88",
+    "new": "LR_Temp088_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_89",
+    "new": "LR_Temp089_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_9",
+    "new": "LR_Temp009_Int_in",
+    "occurrences": 67,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_92",
+    "new": "LR_Temp092_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_94",
+    "new": "LR_Temp094_Int_in",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_95",
+    "new": "LR_Temp095_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_96",
+    "new": "LR_Temp096_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_in_99",
+    "new": "LR_Temp099_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_1",
+    "new": "LR_Temp001_Long_lo",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_100",
+    "new": "LR_Temp100_Long_lo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_11",
+    "new": "LR_Temp011_Long_lo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_111",
+    "new": "LR_Temp111_Long_lo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_113",
+    "new": "LR_Temp113_Long_lo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_14",
+    "new": "LR_Temp014_Long_lo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_17",
+    "new": "LR_Temp017_Long_lo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_18",
+    "new": "LR_Temp018_Long_lo",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_2",
+    "new": "LR_Temp002_Long_lo",
+    "occurrences": 23,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_23",
+    "new": "LR_Temp023_Long_lo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_3",
+    "new": "LR_Temp003_Long_lo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_32",
+    "new": "LR_Temp032_Long_lo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_34",
+    "new": "LR_Temp034_Long_lo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_4",
+    "new": "LR_Temp004_Long_lo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_43",
+    "new": "LR_Temp043_Long_lo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_5",
+    "new": "LR_Temp005_Long_lo",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_6",
+    "new": "LR_Temp006_Long_lo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_7",
+    "new": "LR_Temp007_Long_lo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_8",
+    "new": "LR_Temp008_Long_lo",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_9",
+    "new": "LR_Temp009_Long_lo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_91",
+    "new": "LR_Temp091_Long_lo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_93",
+    "new": "LR_Temp093_Long_lo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_lo_98",
+    "new": "LR_Temp098_Long_lo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_st_1",
+    "new": "LR_Temp001_String_st",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_st_11",
+    "new": "LR_Temp011_String_st",
+    "occurrences": 18,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_st_114",
+    "new": "LR_Temp114_String_st",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_st_2",
+    "new": "LR_Temp002_String_st",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "临_st_22",
+    "new": "LR_Temp022_String_st",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_10_do",
+    "new": "LR_Local010_Double_do",
+    "occurrences": 107,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_10_in",
+    "new": "LR_Local010_Int_in",
+    "occurrences": 36,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_11_do",
+    "new": "LR_Local011_Double_do",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_11_in",
+    "new": "LR_Local011_Int_in",
+    "occurrences": 24,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_11_st",
+    "new": "LR_Local011_String_st",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_12_do",
+    "new": "LR_Local012_Double_do",
+    "occurrences": 36,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_12_in",
+    "new": "LR_Local012_Int_in",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_12_lo",
+    "new": "LR_Local012_Long_lo",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_13_da",
+    "new": "LR_Local013_Datetime_da",
+    "occurrences": 30,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_13_do",
+    "new": "LR_Local013_Double_do",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_13_in",
+    "new": "LR_Local013_Int_in",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_14_do",
+    "new": "LR_Local014_Double_do",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_14_in",
+    "new": "LR_Local014_Int_in",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_14_ui",
+    "new": "LR_Local014_Uint_ui",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_15_bo",
+    "new": "LR_Local015_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_15_da",
+    "new": "LR_Local015_Datetime_da",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_15_in",
+    "new": "LR_Local015_Int_in",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_16_in",
+    "new": "LR_Local016_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_16_st",
+    "new": "LR_Local016_String_st",
+    "occurrences": 13,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_17_do",
+    "new": "LR_Local017_Double_do",
+    "occurrences": 32,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_17_in",
+    "new": "LR_Local017_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_17_st",
+    "new": "LR_Local017_String_st",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_18_do",
+    "new": "LR_Local018_Double_do",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_18_in",
+    "new": "LR_Local018_Int_in",
+    "occurrences": 18,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_19_bo",
+    "new": "LR_Local019_Bool_bo",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_19_in",
+    "new": "LR_Local019_Int_in",
+    "occurrences": 17,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_1_bo",
+    "new": "LR_Local001_Bool_bo",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_1_do",
+    "new": "LR_Local001_Double_do",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_1_in",
+    "new": "LR_Local001_Int_in",
+    "occurrences": 70,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_1_st",
+    "new": "LR_Local001_String_st",
+    "occurrences": 102,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_20_bo",
+    "new": "LR_Local020_Bool_bo",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_20_in",
+    "new": "LR_Local020_Int_in",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_21_do",
+    "new": "LR_Local021_Double_do",
+    "occurrences": 26,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_21_st",
+    "new": "LR_Local021_String_st",
+    "occurrences": 17,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_22_bo",
+    "new": "LR_Local022_Bool_bo",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_22_in",
+    "new": "LR_Local022_Int_in",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_23_do",
+    "new": "LR_Local023_Double_do",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_23_in",
+    "new": "LR_Local023_Int_in",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_24_do",
+    "new": "LR_Local024_Double_do",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_24_in",
+    "new": "LR_Local024_Int_in",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_25_do",
+    "new": "LR_Local025_Double_do",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_26_do",
+    "new": "LR_Local026_Double_do",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_27_do",
+    "new": "LR_Local027_Double_do",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_28_in",
+    "new": "LR_Local028_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_29_do",
+    "new": "LR_Local029_Double_do",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_2_bo",
+    "new": "LR_Local002_Bool_bo",
+    "occurrences": 79,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_2_do",
+    "new": "LR_Local002_Double_do",
+    "occurrences": 111,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_2_do_si99",
+    "new": "LR_Local002_Double_do_Array",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_2_in",
+    "new": "LR_Local002_Int_in",
+    "occurrences": 34,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_2_st",
+    "new": "LR_Local002_String_st",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_3_bo",
+    "new": "LR_Local003_Bool_bo",
+    "occurrences": 16,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_3_da",
+    "new": "LR_Local003_Datetime_da",
+    "occurrences": 15,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_3_do",
+    "new": "LR_Local003_Double_do",
+    "occurrences": 44,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_3_do_si99",
+    "new": "LR_Local003_Double_do_Array",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_3_in",
+    "new": "LR_Local003_Int_in",
+    "occurrences": 48,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_3_lo",
+    "new": "LR_Local003_Datetime_lo",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_3_st",
+    "new": "LR_Local003_String_st",
+    "occurrences": 161,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_4_bo",
+    "new": "LR_Local004_Bool_bo",
+    "occurrences": 30,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_4_da",
+    "new": "LR_Local004_Datetime_da",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_4_do",
+    "new": "LR_Local004_Double_do",
+    "occurrences": 41,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_4_in",
+    "new": "LR_Local004_Int_in",
+    "occurrences": 85,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_4_st",
+    "new": "LR_Local004_String_st",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_5_a_129",
+    "new": "LR_Local005_Value_a",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_5_bo",
+    "new": "LR_Local005_Bool_bo",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_5_do",
+    "new": "LR_Local005_Double_do",
+    "occurrences": 37,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_5_in",
+    "new": "LR_Local005_Int_in",
+    "occurrences": 83,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_5_lo",
+    "new": "LR_Local005_Long_lo",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_6_a_129",
+    "new": "LR_Local006_Value_a",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_6_bo",
+    "new": "LR_Local006_Bool_bo",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_6_do",
+    "new": "LR_Local006_Double_do",
+    "occurrences": 17,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_6_in",
+    "new": "LR_Local006_Int_in",
+    "occurrences": 69,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_6_st",
+    "new": "LR_Local006_String_st",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_7_bo",
+    "new": "LR_Local007_Bool_bo",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_7_ch_ko",
+    "new": "LR_Local007_Char_ch_Array",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_7_da",
+    "new": "LR_Local007_Datetime_da",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_7_do",
+    "new": "LR_Local007_Double_do",
+    "occurrences": 110,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_7_in",
+    "new": "LR_Local007_Int_in",
+    "occurrences": 43,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_8_ch_ko",
+    "new": "LR_Local008_Char_ch_Array",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_8_da",
+    "new": "LR_Local008_Datetime_da",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_8_do",
+    "new": "LR_Local008_Double_do",
+    "occurrences": 85,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_8_in",
+    "new": "LR_Local008_Int_in",
+    "occurrences": 47,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_9_in",
+    "new": "LR_Local009_Int_in",
+    "occurrences": 42,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_9_lo",
+    "new": "LR_Local009_Long_lo",
+    "occurrences": 86,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "子_9_st",
+    "new": "LR_Local009_String_st",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_100_do_230",
+    "new": "LR_Global100_Double_do",
+    "occurrences": 40,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_101_do_238",
+    "new": "LR_Global101_Double_do",
+    "occurrences": 26,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_102_st_240",
+    "new": "LR_Global102_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_103_do_250",
+    "new": "LR_Global103_Double_do",
+    "occurrences": 31,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_104_do_258",
+    "new": "LR_Global104_Double_do",
+    "occurrences": 16,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_105_do_260",
+    "new": "LR_Global105_Double_do",
+    "occurrences": 16,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_106_do_268",
+    "new": "LR_Global106_Double_do",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_107_do_270",
+    "new": "LR_Global107_Double_do",
+    "occurrences": 16,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_108_do_278",
+    "new": "LR_Global108_Double_do",
+    "occurrences": 18,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_109_do_280",
+    "new": "LR_Global109_Double_do",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_10_bo_68",
+    "new": "LR_Global010_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_110_do_288",
+    "new": "LR_Global110_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_111_do_290",
+    "new": "LR_Global111_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_112_st_298",
+    "new": "LR_Global112_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_113_do_2A8",
+    "new": "LR_Global113_Double_do",
+    "occurrences": 26,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_114_do_2B0",
+    "new": "LR_Global114_Double_do",
+    "occurrences": 35,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_115_st_2B8",
+    "new": "LR_Global115_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_116_bo_2C4",
+    "new": "LR_Global116_Bool_bo",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_117_in_2C8",
+    "new": "LR_Global117_Int_in",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_118_in_2CC",
+    "new": "LR_Global118_Int_in",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_119_in_2D0",
+    "new": "LR_Global119_Int_in",
+    "occurrences": 17,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_11_in_6C",
+    "new": "LR_Global011_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_120_in_2D4",
+    "new": "LR_Global120_Int_in",
+    "occurrences": 17,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_121_in_2D8",
+    "new": "LR_Global121_Int_in",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_122_in_2DC",
+    "new": "LR_Global122_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_123_do_2E0",
+    "new": "LR_Global123_Double_do",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_124_st_2E8",
+    "new": "LR_Global124_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_125_do_2F8",
+    "new": "LR_Global125_Double_do",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_126_do_300",
+    "new": "LR_Global126_Double_do",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_127_st_308",
+    "new": "LR_Global127_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_128_in_314",
+    "new": "LR_Global128_Int_in",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_129_do_318",
+    "new": "LR_Global129_Double_do",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_12_in_70",
+    "new": "LR_Global012_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_130_in_320",
+    "new": "LR_Global130_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_131_do_328",
+    "new": "LR_Global131_Double_do",
+    "occurrences": 17,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_132_do_330",
+    "new": "LR_Global132_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_133_in_338",
+    "new": "LR_Global133_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_134_do_340",
+    "new": "LR_Global134_Double_do",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_135_bo_348",
+    "new": "LR_Global135_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_136_bo_349",
+    "new": "LR_Global136_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_137_in_34C",
+    "new": "LR_Global137_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_138_da_384_si13",
+    "new": "LR_Global138_Datetime_da_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_139_bo_3EC",
+    "new": "LR_Global139_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_13_bo_74",
+    "new": "LR_Global013_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_140_do_3F0",
+    "new": "LR_Global140_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_141_do_3F8",
+    "new": "LR_Global141_Double_do",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_142_in_400",
+    "new": "LR_Global142_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_143_in_404",
+    "new": "LR_Global143_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_144_in_408",
+    "new": "LR_Global144_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_145_in_40C",
+    "new": "LR_Global145_Int_in",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_146_do_410",
+    "new": "LR_Global146_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_147_do_418",
+    "new": "LR_Global147_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_148_do_420",
+    "new": "LR_Global148_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_149_st_428",
+    "new": "LR_Global149_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_14_bo_75",
+    "new": "LR_Global014_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_150_bo_434",
+    "new": "LR_Global150_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_151_in_438",
+    "new": "LR_Global151_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_152_in_43C",
+    "new": "LR_Global152_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_153_in_440",
+    "new": "LR_Global153_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_154_in_444",
+    "new": "LR_Global154_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_155_in_448",
+    "new": "LR_Global155_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_156_in_44C",
+    "new": "LR_Global156_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_157_bo_450",
+    "new": "LR_Global157_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_158_st_458",
+    "new": "LR_Global158_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_159_bo_464",
+    "new": "LR_Global159_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_15_in_78",
+    "new": "LR_Global015_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_160_do_468",
+    "new": "LR_Global160_Double_do",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_161_do_470",
+    "new": "LR_Global161_Double_do",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_162_do_478",
+    "new": "LR_Global162_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_163_do_480",
+    "new": "LR_Global163_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_164_in_488",
+    "new": "LR_Global164_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_165_do_490",
+    "new": "LR_Global165_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_166_in_498",
+    "new": "LR_Global166_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_167_do_4A0",
+    "new": "LR_Global167_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_168_in_4A8",
+    "new": "LR_Global168_Int_in",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_169_in_4AC",
+    "new": "LR_Global169_Int_in",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_16_st_80",
+    "new": "LR_Global016_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_170_st_4B0",
+    "new": "LR_Global170_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_171_bo_4BC",
+    "new": "LR_Global171_Bool_bo",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_172_in_4C0",
+    "new": "LR_Global172_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_173_bo_4C4",
+    "new": "LR_Global173_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_174_in_4C8",
+    "new": "LR_Global174_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_175_in_4CC",
+    "new": "LR_Global175_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_176_in_4D0",
+    "new": "LR_Global176_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_177_in_4D4",
+    "new": "LR_Global177_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_178_in_4D8",
+    "new": "LR_Global178_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_179_in_4DC",
+    "new": "LR_Global179_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_17_bo_8C",
+    "new": "LR_Global017_Bool_bo",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_180_in_4E0",
+    "new": "LR_Global180_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_181_in_4E4",
+    "new": "LR_Global181_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_182_in_4E8",
+    "new": "LR_Global182_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_183_in_4EC",
+    "new": "LR_Global183_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_184_in_4F0",
+    "new": "LR_Global184_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_185_in_4F4",
+    "new": "LR_Global185_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_186_st_4F8",
+    "new": "LR_Global186_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_187_in_504",
+    "new": "LR_Global187_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_188_do_508",
+    "new": "LR_Global188_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_189_do_510",
+    "new": "LR_Global189_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_18_st_90",
+    "new": "LR_Global018_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_190_in_518",
+    "new": "LR_SymbolDigits",
+    "occurrences": 109,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "总_191_do_520",
+    "new": "LR_Global191_Double_do",
+    "occurrences": 63,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_192_in_528",
+    "new": "LR_Global192_Int_in",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_193_in_52C",
+    "new": "LR_Global193_Int_in",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_194_bo_530",
+    "new": "LR_Global194_Bool_bo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_195_bo_531",
+    "new": "LR_Global195_Bool_bo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_196_do_568_si20si2",
+    "new": "LR_Global196_Double_do_Array",
+    "occurrences": 34,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_197_do_6DC_si100si3",
+    "new": "LR_Global197_Double_do_Array",
+    "occurrences": 44,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_198_do_1070_si100si2",
+    "new": "LR_Global198_Double_do_Array",
+    "occurrences": 54,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_199_in_16B0",
+    "new": "LR_Global199_Int_in",
+    "occurrences": 15,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_19_in_9C",
+    "new": "LR_Global019_Int_in",
+    "occurrences": 38,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_1_do_0",
+    "new": "LR_CurrentSpreadPrice",
+    "occurrences": 32,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "总_200_in_16B4",
+    "new": "LR_Global200_Int_in",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_201_do_16B8",
+    "new": "LR_Global201_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_202_do_16C0",
+    "new": "LR_Global202_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_203_do_16C8",
+    "new": "LR_Global203_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_204_do_16D0",
+    "new": "LR_Global204_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_205_do_16D8",
+    "new": "LR_Global205_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_206_do_16E0",
+    "new": "LR_Global206_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_207_bo_16E8",
+    "new": "LR_Global207_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_208_in_16EC",
+    "new": "LR_Global208_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_209_do_16F0",
+    "new": "LR_Global209_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_20_bo_A0",
+    "new": "LR_Global020_Bool_bo",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_210_do_16F8",
+    "new": "LR_Global210_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_211_do_1700",
+    "new": "LR_Global211_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_212_do_1708",
+    "new": "LR_Global212_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_213_bo_1710",
+    "new": "LR_Global213_Bool_bo",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_214_in_1714",
+    "new": "LR_Global214_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_215_da_174C_si99",
+    "new": "LR_Global215_Datetime_da_Array",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_216_lo_1A68",
+    "new": "LR_Global216_Long_lo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_217_in_1A70",
+    "new": "LR_Global217_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_218_bo_1A74",
+    "new": "LR_Global218_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_219_bo_1A75",
+    "new": "LR_Global219_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_21_bo_A1",
+    "new": "LR_Global021_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_220_in_1A78",
+    "new": "LR_Global220_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_221_do_1A80",
+    "new": "LR_StopLevelPriceDistance",
+    "occurrences": 49,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "总_222_do_1A88",
+    "new": "LR_Global222_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_223_do_1AC4_si99",
+    "new": "LR_Global223_Double_do_Array",
+    "occurrences": 51,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_224_do_1DE0",
+    "new": "LR_Global224_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_225_in_1DE8",
+    "new": "LR_Global225_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_226_in_1DEC",
+    "new": "LR_Global226_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_227_do_1DF0",
+    "new": "LR_Global227_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_228_do_1DF8",
+    "new": "LR_Global228_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_229_do_1E00",
+    "new": "LR_NormalizedPriceUnit",
+    "occurrences": 218,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "总_22_bo_A2",
+    "new": "LR_Global022_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_230_in_1E08",
+    "new": "LR_Global230_Int_in",
+    "occurrences": 51,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_231_bo_1E0C",
+    "new": "LR_Global231_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_232_do_1E10",
+    "new": "LR_Global232_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_233_do_1E18",
+    "new": "LR_Global233_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_234_in_1E20",
+    "new": "LR_Global234_Int_in",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_235_do_1E28",
+    "new": "LR_Global235_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_236_do_1E30",
+    "new": "LR_Global236_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_237_do_1E38",
+    "new": "LR_Global237_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_238_bo_1E40",
+    "new": "LR_Global238_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_239_bo_1E41",
+    "new": "LR_Global239_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_23_bo_A3",
+    "new": "LR_Global023_Bool_bo",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_240_bo_1E42",
+    "new": "LR_Global240_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_241_do_1E78_si99",
+    "new": "LR_Global241_Double_do_Array",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_242_do_21C4_si99",
+    "new": "LR_Global242_Double_do_Array",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_243_do_24E0",
+    "new": "LR_Global243_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_244_do_24E8",
+    "new": "LR_Global244_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_245_do_24F0",
+    "new": "LR_Global245_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_246_do_24F8",
+    "new": "LR_Global246_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_247_do_2500",
+    "new": "LR_Global247_Double_do",
+    "occurrences": 13,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_248_do_2508",
+    "new": "LR_Global248_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_249_do_2510",
+    "new": "LR_Global249_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_24_bo_A4",
+    "new": "LR_Global024_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_250_in_2518",
+    "new": "LR_Global250_Int_in",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_251_do_2520",
+    "new": "LR_Global251_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_252_st_2528",
+    "new": "LR_Global252_String_st",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_253_st_2538",
+    "new": "LR_Global253_String_st",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_254_st_2548",
+    "new": "LR_Global254_String_st",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_255_st_2558",
+    "new": "LR_Global255_String_st",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_256_bo_2564",
+    "new": "LR_Global256_Bool_bo",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_257_bo_2565",
+    "new": "LR_Global257_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_258_in_2568",
+    "new": "LR_Global258_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_259_in_256C",
+    "new": "LR_Global259_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_25_bo_A5",
+    "new": "LR_Global025_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_260_do_2570",
+    "new": "LR_Global260_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_261_do_2578",
+    "new": "LR_Global261_Double_do",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_262_do_2580",
+    "new": "LR_Global262_Double_do",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_263_do_2588",
+    "new": "LR_Global263_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_264_do_2590",
+    "new": "LR_Global264_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_265_in_2598",
+    "new": "LR_Global265_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_266_in_259C",
+    "new": "LR_Global266_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_267_in_25A0",
+    "new": "LR_Global267_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_268_do_25A8",
+    "new": "LR_Global268_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_269_do_25B0",
+    "new": "LR_Global269_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_26_bo_A6",
+    "new": "LR_Global026_Bool_bo",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_270_do_25B8",
+    "new": "LR_Global270_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_271_do_25C0",
+    "new": "LR_Global271_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_272_do_25C8",
+    "new": "LR_Global272_Double_do",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_273_do_25D0",
+    "new": "LR_Global273_Double_do",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_274_in_25D8",
+    "new": "LR_Global274_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_275_do_25E0",
+    "new": "LR_Global275_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_276_do_25E8",
+    "new": "LR_Global276_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_277_do_25F0",
+    "new": "LR_Global277_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_278_bo_25F8",
+    "new": "LR_Global278_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_279_bo_25F9",
+    "new": "LR_Global279_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_27_bo_A7",
+    "new": "LR_Global027_Bool_bo",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_280_bo_25FA",
+    "new": "LR_Global280_Bool_bo",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_281_bo_25FB",
+    "new": "LR_Global281_Bool_bo",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_282_bo_25FC",
+    "new": "LR_Global282_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_283_bo_25FD",
+    "new": "LR_Global283_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_284_do_2600",
+    "new": "LR_Global284_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_285_do_2608",
+    "new": "LR_Global285_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_286_bo_2610",
+    "new": "LR_Global286_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_287_do_2618",
+    "new": "LR_Global287_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_288_do_2620",
+    "new": "LR_Global288_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_289_in_2628",
+    "new": "LR_Global289_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_28_bo_A8",
+    "new": "LR_Global028_Bool_bo",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_290_in_262C",
+    "new": "LR_Global290_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_291_do_2664_si10",
+    "new": "LR_Global291_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_292_do_26E8_si10",
+    "new": "LR_Global292_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_293_do_276C_si10",
+    "new": "LR_Global293_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_294_do_27F0_si10",
+    "new": "LR_Global294_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_295_in_2840",
+    "new": "LR_Global295_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_296_in_2844",
+    "new": "LR_Global296_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_297_in_2848",
+    "new": "LR_Global297_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_298_in_284C",
+    "new": "LR_Global298_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_299_st_2850",
+    "new": "LR_Global299_String_st",
+    "occurrences": 58,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_29_bo_A9",
+    "new": "LR_Global029_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_2_do_8",
+    "new": "LR_Global002_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_300_do_2860",
+    "new": "LR_Global300_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_301_do_2868",
+    "new": "LR_Global301_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_302_da_2870",
+    "new": "LR_Global302_Datetime_da",
+    "occurrences": 21,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_303_bo_2878",
+    "new": "LR_Global303_Bool_bo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_304_in_287C",
+    "new": "LR_Global304_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_305_bo_2880",
+    "new": "LR_Global305_Bool_bo",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_306_in_2884",
+    "new": "LR_Global306_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_307_do_2888",
+    "new": "LR_Global307_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_308_do_2890",
+    "new": "LR_Global308_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_309_do_2898",
+    "new": "LR_FreezeLevelPriceDistance",
+    "occurrences": 40,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "总_30_bo_AA",
+    "new": "LR_Global030_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_310_do_28A0",
+    "new": "LR_Global310_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_311_do_28A8",
+    "new": "LR_Global311_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_312_bo_28B0",
+    "new": "LR_Global312_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_313_da_28B8",
+    "new": "LR_Global313_Datetime_da",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_314_da_28C0",
+    "new": "LR_Global314_Datetime_da",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_315_da_28C8",
+    "new": "LR_Global315_Datetime_da",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_316_bo_28D0",
+    "new": "LR_Global316_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_317_bo_28D1",
+    "new": "LR_Global317_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_318_do_28D8",
+    "new": "LR_Global318_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_319_da_28E0",
+    "new": "LR_Global319_Datetime_da",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_31_bo_AB",
+    "new": "LR_Global031_Bool_bo",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_320_bo_28E8",
+    "new": "LR_Global320_Bool_bo",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_321_in_2920_si99",
+    "new": "LR_Global321_Int_in_Array",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_322_in_2AE0_si99",
+    "new": "LR_Global322_Int_in_Array",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_323_do_2CA0_si30",
+    "new": "LR_Global323_Double_do_Array",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_324_do_2DC4_si30",
+    "new": "LR_Global324_Double_do_Array",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_325_do_2EE8_si30",
+    "new": "LR_Global325_Double_do_Array",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_326_do_300C_si30",
+    "new": "LR_Global326_Double_do_Array",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_327_in_30FC",
+    "new": "LR_Global327_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_328_in_3100",
+    "new": "LR_Global328_Int_in",
+    "occurrences": 97,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_329_ui_3104",
+    "new": "LR_Global329_Uint_ui",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_32_bo_AC",
+    "new": "LR_Global032_Bool_bo",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_330_bo_3108",
+    "new": "LR_Global330_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_331_lo_3110",
+    "new": "LR_Global331_Long_lo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_332_in_3118",
+    "new": "LR_Global332_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_333_bo_311C",
+    "new": "LR_Global333_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_334_st_3120",
+    "new": "LR_ActiveOrderComment",
+    "occurrences": 23,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "总_335_bo_312C",
+    "new": "LR_Global335_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_336_st_3130",
+    "new": "LR_CurrentSymbol",
+    "occurrences": 482,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "总_337_do_3140",
+    "new": "LR_Global337_Double_do",
+    "occurrences": 46,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_338_do_3148",
+    "new": "LR_Global338_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_339_in_3184_si99",
+    "new": "LR_Global339_Int_in_Array",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_33_bo_AD",
+    "new": "LR_Global033_Bool_bo",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_340_in_3310",
+    "new": "LR_Global340_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_341_do_3348_si99",
+    "new": "LR_Global341_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_342_bo_3694_si99",
+    "new": "LR_Global342_Bool_bo_Array",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_343_in_372C_si99",
+    "new": "LR_Global343_Int_in_Array",
+    "occurrences": 42,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_344_in_38EC_si99",
+    "new": "LR_Global344_Int_in_Array",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_345_do_3AAC_si99",
+    "new": "LR_Global345_Double_do_Array",
+    "occurrences": 16,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_346_do_3DF8_si99",
+    "new": "LR_Global346_Double_do_Array",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_347_st_4144_si99",
+    "new": "LR_Global347_String_st_Array",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_348_bo_461C_si99",
+    "new": "LR_Global348_Bool_bo_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_349_do_46B4_si99",
+    "new": "LR_Global349_Double_do_Array",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_34_bo_AE",
+    "new": "LR_Global034_Bool_bo",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_350_do_4A00_si99",
+    "new": "LR_Global350_Double_do_Array",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_351_do_4D4C_si99",
+    "new": "LR_Global351_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_352_do_5098_si99",
+    "new": "LR_Global352_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_353_do_53E4_si99",
+    "new": "LR_Global353_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_354_do_5730_si99",
+    "new": "LR_Global354_Double_do_Array",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_355_bo_5A7C_si99",
+    "new": "LR_Global355_Bool_bo_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_356_in_5B14_si99",
+    "new": "LR_Global356_Int_in_Array",
+    "occurrences": 13,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_357_bo_5CA0",
+    "new": "LR_Global357_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_358_do_5CA8",
+    "new": "LR_Global358_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_359_do_5CB0",
+    "new": "LR_Global359_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_35_bo_AF",
+    "new": "LR_Global035_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_360_in_5CB8",
+    "new": "LR_Global360_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_361_do_5CC0",
+    "new": "LR_Global361_Double_do",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_362_do_5CC8",
+    "new": "LR_Global362_Double_do",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_363_in_5CD0",
+    "new": "LR_Global363_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_364_ui_5CD4",
+    "new": "LR_Global364_Uint_ui",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_365_bo_5CD8",
+    "new": "LR_Global365_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_366_do_5CE0",
+    "new": "LR_Global366_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_367_in_5CE8",
+    "new": "LR_Global367_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_368_in_5CEC",
+    "new": "LR_Global368_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_369_in_5CF0",
+    "new": "LR_Global369_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_36_in_B0",
+    "new": "LR_Global036_Int_in",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_370_in_5CF4",
+    "new": "LR_Global370_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_371_in_5CF8",
+    "new": "LR_Global371_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_372_in_5CFC",
+    "new": "LR_Global372_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_373_in_5D00",
+    "new": "LR_Global373_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_374_in_5D04",
+    "new": "LR_Global374_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_375_st_5D3C_si4",
+    "new": "LR_Global375_String_st_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_376_do_5D70",
+    "new": "LR_Global376_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_377_do_5D78",
+    "new": "LR_Global377_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_378_in_5D80",
+    "new": "LR_Global378_Int_in",
+    "occurrences": 25,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_379_da_5D88",
+    "new": "LR_Global379_Datetime_da",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_37_do_B8",
+    "new": "LR_Global037_Double_do",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_380_bo_5D90",
+    "new": "LR_Global380_Bool_bo",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_381_in_5D94",
+    "new": "LR_Global381_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_382_bo_5D98",
+    "new": "LR_Global382_Bool_bo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_383_in_5D9C",
+    "new": "LR_Global383_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_384_do_5DA0",
+    "new": "LR_Global384_Double_do",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_385_in_5DA8",
+    "new": "LR_Global385_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_386_in_5DAC",
+    "new": "LR_Global386_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_387_in_5DB0",
+    "new": "LR_Global387_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_388_in_5DB4",
+    "new": "LR_Global388_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_389_in_5DB8",
+    "new": "LR_Global389_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_38_do_C0",
+    "new": "LR_Global038_Double_do",
+    "occurrences": 47,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_390_da_5DC0",
+    "new": "LR_Global390_Datetime_da",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_391_da_5DFC_si300",
+    "new": "LR_Global391_Datetime_da_Array",
+    "occurrences": 244,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_392_bo_675C",
+    "new": "LR_Global392_Bool_bo",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_393_bo_675D",
+    "new": "LR_Global393_Bool_bo",
+    "occurrences": 8,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_394_bo_675E",
+    "new": "LR_Global394_Bool_bo",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_395_in_6760",
+    "new": "LR_Global395_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_396_in_6764",
+    "new": "LR_Global396_Int_in",
+    "occurrences": 19,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_397_do_6768",
+    "new": "LR_Global397_Double_do",
+    "occurrences": 27,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_398_do_6770",
+    "new": "LR_Global398_Double_do",
+    "occurrences": 22,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_399_da_6778",
+    "new": "LR_Global399_Datetime_da",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_39_in_C8",
+    "new": "LR_Global039_Int_in",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_3_in_10",
+    "new": "LR_Global003_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_400_do_67B4_si99",
+    "new": "LR_Global400_Double_do_Array",
+    "occurrences": 30,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_401_do_6AD0",
+    "new": "LR_Global401_Double_do",
+    "occurrences": 28,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_402_do_6AD8",
+    "new": "LR_Global402_Double_do",
+    "occurrences": 10,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_40_do_D0",
+    "new": "LR_Global040_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_41_do_D8",
+    "new": "LR_Global041_Double_do",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_42_do_E0",
+    "new": "LR_Global042_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_43_bo_E8",
+    "new": "LR_Global043_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_44_st_F0",
+    "new": "LR_Global044_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_45_bo_FC",
+    "new": "LR_Global045_Bool_bo",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_46_bo_FD",
+    "new": "LR_Global046_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_47_bo_FE",
+    "new": "LR_Global047_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_48_in_100",
+    "new": "LR_Global048_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_49_in_104",
+    "new": "LR_Global049_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_4_in_14",
+    "new": "LR_Global004_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_50_st_108",
+    "new": "LR_Global050_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_51_in_114",
+    "new": "LR_Global051_Int_in",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_52_in_118",
+    "new": "LR_Global052_Int_in",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_53_bo_11C",
+    "new": "LR_Global053_Bool_bo",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_54_in_120",
+    "new": "LR_Global054_Int_in",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_55_bo_124",
+    "new": "LR_Global055_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_56_in_128",
+    "new": "LR_Global056_Int_in",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_57_bo_12C",
+    "new": "LR_Global057_Bool_bo",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_58_in_130",
+    "new": "LR_Global058_Int_in",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_59_bo_134",
+    "new": "LR_Global059_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_5_in_18",
+    "new": "LR_Global005_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_60_in_138",
+    "new": "LR_Global060_Int_in",
+    "occurrences": 11,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_61_bo_13C",
+    "new": "LR_Global061_Bool_bo",
+    "occurrences": 7,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_62_bo_13D",
+    "new": "LR_Global062_Bool_bo",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_63_in_140",
+    "new": "LR_Global063_Int_in",
+    "occurrences": 17,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_64_do_148",
+    "new": "LR_Global064_Double_do",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_65_in_150",
+    "new": "LR_Global065_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_66_in_154",
+    "new": "LR_Global066_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_67_bo_158",
+    "new": "LR_Global067_Bool_bo",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_68_in_15C",
+    "new": "LR_Global068_Int_in",
+    "occurrences": 6,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_69_in_160",
+    "new": "LR_Global069_Int_in",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_6_do_1C_ko",
+    "new": "LR_Global006_Double_do_Array",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_70_st_168",
+    "new": "LR_Global070_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_71_in_174",
+    "new": "LR_Global071_Int_in",
+    "occurrences": 21,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_72_in_178",
+    "new": "LR_Global072_Int_in",
+    "occurrences": 13,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_73_in_17C",
+    "new": "LR_Global073_Int_in",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_74_in_180",
+    "new": "LR_Global074_Int_in",
+    "occurrences": 16,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_75_bo_184",
+    "new": "LR_Global075_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_76_bo_185",
+    "new": "LR_Global076_Bool_bo",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_77_in_188",
+    "new": "LR_Global077_Int_in",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_78_in_18C",
+    "new": "LR_Global078_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_79_in_190",
+    "new": "LR_Global079_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_7_do_50",
+    "new": "LR_Global007_Double_do",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_80_do_198",
+    "new": "LR_Global080_Double_do",
+    "occurrences": 21,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_81_do_1A0",
+    "new": "LR_Global081_Double_do",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_82_do_1A8",
+    "new": "LR_Global082_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_83_do_1B0",
+    "new": "LR_Global083_Double_do",
+    "occurrences": 15,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_84_do_1B8",
+    "new": "LR_Global084_Double_do",
+    "occurrences": 15,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_85_do_1C0",
+    "new": "LR_Global085_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_86_in_1C8",
+    "new": "LR_Global086_Int_in",
+    "occurrences": 16,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_87_in_1CC",
+    "new": "LR_Global087_Int_in",
+    "occurrences": 12,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_88_do_1D0",
+    "new": "LR_Global088_Double_do",
+    "occurrences": 14,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_89_in_1D8",
+    "new": "LR_Global089_Int_in",
+    "occurrences": 15,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_8_do_58",
+    "new": "LR_Global008_Double_do",
+    "occurrences": 16,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_90_do_1E0",
+    "new": "LR_Global090_Double_do",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_91_in_1E8",
+    "new": "LR_Global091_Int_in",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_92_in_1EC",
+    "new": "LR_Global092_Int_in",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_93_in_1F0",
+    "new": "LR_ActiveMagicNumber",
+    "occurrences": 85,
+    "basis": "role established from source assignments or function body; not a behavior change"
+  },
+  {
+    "old": "总_94_st_1F8",
+    "new": "LR_Global094_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_95_in_204",
+    "new": "LR_Global095_Int_in",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_96_in_208",
+    "new": "LR_Global096_Int_in",
+    "occurrences": 24,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_97_st_210",
+    "new": "LR_Global097_String_st",
+    "occurrences": 9,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_98_st_220",
+    "new": "LR_Global098_String_st",
+    "occurrences": 1,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_99_in_22C",
+    "new": "LR_Global099_Int_in",
+    "occurrences": 13,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "总_9_do_60",
+    "new": "LR_Global009_Double_do",
+    "occurrences": 5,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_0_bo",
+    "new": "LR_Arg000_Bool_bo",
+    "occurrences": 3,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_0_do",
+    "new": "LR_Arg000_Double_do",
+    "occurrences": 62,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_0_in",
+    "new": "LR_Arg000_Int_in",
+    "occurrences": 50,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_1_in",
+    "new": "LR_Arg001_Int_in",
+    "occurrences": 21,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_2_in",
+    "new": "LR_Arg002_Int_in",
+    "occurrences": 23,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_3_st",
+    "new": "LR_Arg003_String_st",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_4_in",
+    "new": "LR_Arg004_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_5_in",
+    "new": "LR_Arg005_Int_in",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_6_in",
+    "new": "LR_Arg006_Int_in",
+    "occurrences": 4,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_7_ui",
+    "new": "LR_Arg007_Uint_ui",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  },
+  {
+    "old": "木_8_do",
+    "new": "LR_Arg008_Double_do",
+    "occurrences": 2,
+    "basis": "neutral; scope/index and declared type; no inferred trading role"
+  }
+]

@@ -37,3 +37,17 @@ Simpan report HTML Gold dan preset default sebelum mengganti EA. Jalankan Loco m
 ## Catatan workspace
 
 Pada pemeriksaan ini Git menunjukkan `Loco_Reaper_v1.mq4` dan `TS_Gold_Reaper_v4.1.mq4` hilang dari folder utama (status D). Penyebab belum diketahui. Source audit masih tersedia dan versi asli tersimpan dalam Git. Penghapusan tidak dimasukkan ke commit review dan tidak dipulihkan secara diam-diam.
+
+## Verifikasi lanjutan dari HTML asli
+
+Pengguna kemudian memberikan `Gold-smoke-20260921.htm`. SHA-256: `7d06b7550de6727da1138aa706d0a1c6387e69f902938a6d0947d644a1e57099`. Salinan HTML mentah disimpan hanya di build lokal yang diabaikan Git.
+
+HTML mengonfirmasi Build 1479, Exness-Trial8, XAUUSD/H1, Every tick, deposit 2000, spread 168, dan periode yang dilaporkan 2026.09.21 00:00 hingga 2026.09.25 20:00, dengan batas permintaan 21–26 September. Akhir periode tersebut adalah label waktu pada report; bukan bukti timestamp tick terakhir sampai detik.
+
+Semua 57 parameter yang diekstrak cocok dengan deklarasi extern source audit: 56 identik tekstual, satu string ManStratWarn sama setelah escape tanda petik MQL dinormalisasi. Tidak ditemukan perubahan parameter trading dari default. Leverage tidak dicantumkan HTML.
+
+Tabel HTML berisi 70 event: 18 buy stop, 22 sell stop, 21 delete, 3 sell, 3 modify, 3 s/l. Jumlah tersebut konsisten dengan journal yang diberikan. Exit order 18 = 4291.929, profit 1.34; order 22 = 4292.607, profit 1.45; order 21 = 4293.359, profit 0.50. Saldo akhir 2003.29. HTML hanya menampilkan waktu sampai menit; journal diperlukan untuk pembandingan detik. Tidak ada rincian komisi/swap terpisah di tabel HTML ini.
+
+HTML memang menyebut 1113 bars, sehingga perbedaan terhadap 113 bars di journal bukan sekadar salah baca screenshot. Selisihnya tepat 1000, tetapi penyebabnya belum diverifikasi. Jangan menafsirkan 1113 sebagai 1113 jam trading aktif dalam rentang lima hari atau menyimpulkan run berbeda hanya dari angka itu. Tetap bandingkan masing-masing metrik report dan journal pada run Loco.
+
+Langkah manual berikutnya: pilih Loco_Reaper_v1, reset Inputs, periksa deposit 2000 USD/Long & Short, pertahankan XAUUSD/H1/Every tick/spread 168/tanggal 21–26 September serta optimization/visual OFF. Gunakan terminal, akun, dan cache history yang sama; simpan report dan journal terpisah. Hasil ini tetap baseline pendek, belum merupakan bukti kesamaan dengan Loco atau periode target penuh.
